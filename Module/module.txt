@@ -1,0 +1,8 @@
+Its all about exporting
+
+There is default export(export default function ...) import it like(import name from '../')
+
+There is named export(export function ...) import it like(import {name} from '../')
+
+
+stuff like this most of them are known stuff
